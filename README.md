@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipesthis is text that should be added to the README file
+In this assignment, I will be putting together alot of the skills that I have been building in making websites with HTML. At the moment, there will not be alot of stylistic chioces to be made but that will come later. In this assignment I will practice making unorded lists, inserting links and photos as well as making ordered lists for the step by step directions. Further, this will be my first project to upload via github, thus, it will be expanding my abilities with github.
