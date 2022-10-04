@@ -1,0 +1,19 @@
+body{
+    background-color: #FFD54F;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.list{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 40px;
+    border:2px solid rebeccapurple;
+    background-color:#FFECB3;
+}
+
+img, h1 {
+    text-align: center;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}

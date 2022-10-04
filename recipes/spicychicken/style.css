@@ -1,0 +1,17 @@
+body{
+background-color:#FF8A65;
+
+}
+
+.list{
+    padding:30px;
+    border: 4px solid orange;
+    background-color:antiquewhite;
+}
+
+img, h1 {
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+    text-align: center;
+}
