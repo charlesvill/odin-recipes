@@ -1,0 +1,18 @@
+body {
+    background-color:#B2EBF2;
+    padding: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 3px solid beige;
+}
+
+.header{
+    font-family:fantasy;
+    font-weight: bold;
+    
+}
+
+.ingredients, .steps{
+    padding: 40px;
+    border: 2px solid sandybrown;
+    background-color:antiquewhite
+}

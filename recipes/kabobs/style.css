@@ -1,0 +1,16 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:bisque;
+}
+
+.header{
+
+}
+
+
+.list{
+    padding: 30px;
+    border: 2px solid goldenrod;
+    background-color:antiquewhite;
+    
+}
